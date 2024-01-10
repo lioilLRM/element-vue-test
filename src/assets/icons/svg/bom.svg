@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="-界面合集" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="04-自制工单-面向销售订单备份" transform="translate(-147.000000, -521.000000)" fill="#FF9834">
+            <g id="编组-4备份-2" transform="translate(135.000000, 513.000000)">
+                <g id="编组-3备份" transform="translate(12.000000, 8.000000)">
+                    <rect id="矩形" fill-opacity="0.2" x="0" y="0" width="12" height="12" rx="2"></rect>
+                    <polygon id="工" fill-rule="nonzero" points="10.032 9.369 10.032 8.541 6.441 8.541 6.441 3.069 9.465 3.069 9.465 2.25 2.562 2.25 2.562 3.069 5.577 3.069 5.577 8.541 1.977 8.541 1.977 9.369"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>在职</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-用户清单" transform="translate(-1191.000000, -433.000000)" fill="#5ED053">
+            <g id="编组-11" transform="translate(1191.000000, 433.000000)">
+                <path d="M6,0 C9.3137085,0 12,2.6862915 12,6 C12,9.3137085 9.3137085,12 6,12 C2.6862915,12 0,9.3137085 0,6 C0,2.6862915 2.6862915,0 6,0 Z M8.44897959,3.42857143 L5.27606802,6.58626885 L3.60794259,4.92614212 L2.57142857,5.96765018 L5.27606802,8.65932085 L9.48549361,4.4700795 L8.44897959,3.42857143 Z" id="成功"></path>
+            </g>
+        </g>
+    </g>
+</svg>

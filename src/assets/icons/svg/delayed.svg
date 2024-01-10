@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>在职</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 0.596078 0 0 0 0 0.203922 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="-界面合集" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-保养计划-计划方案备份-3" transform="translate(-905.000000, -381.000000)">
+            <g id="编组-4" transform="translate(892.000000, 298.000000)">
+                <g id="在职" transform="translate(13.000000, 83.000000)" filter="url(#filter-1)">
+                    <g id="kongxian" fill="#2BC048" fill-rule="nonzero">
+                        <path d="M6,0 C2.68660714,0 0,2.68660714 0,6 C0,9.31339286 2.68660714,12 6,12 C9.31339286,12 12,9.31339286 12,6 C12,2.68660714 9.31339286,0 6,0 Z M8.85,7.35 L4.65,7.35 L4.65,3.45 L6.15,3.45 L6.15,5.85 L8.85,5.85 L8.85,7.35 L8.85,7.35 Z" id="形状"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

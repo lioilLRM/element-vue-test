@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编辑</title>
+    <g id="-界面合集" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="打印模板列表" transform="translate(-358.000000, -383.000000)" fill-rule="nonzero">
+            <g id="编辑" transform="translate(358.000000, 383.000000)">
+                <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="12" height="12"></rect>
+                <path d="M2.925,9.825 C3.15,9.825 3.375,9.75 3.6,9.6 L3.675,9.6 L1.575,7.5 L1.575,7.575 C1.425,7.8 1.35,8.025 1.35,8.25 L0.6,10.575 L2.925,9.825 L2.925,9.825 L2.925,9.825 L2.925,9.825 Z M10.425,1.425 L9.75,0.75 C9.375,0.375 8.775,0.375 8.4,0.75 L7.725,1.425 L9.75,3.45 L10.425,2.775 C10.8,2.4 10.8,1.8 10.425,1.425 L10.425,1.425 L10.425,1.425 L10.425,1.425 Z M9.075,4.125 L7.05,2.1 L2.325,6.825 L4.35,8.85 L9.075,4.125 L9.075,4.125 L9.075,4.125 L9.075,4.125 Z M0,11.25 L12,11.25 L12,12 L0,12 L0,11.25 L0,11.25 Z" id="形状" fill="#999999"></path>
+            </g>
+        </g>
+    </g>
+</svg>

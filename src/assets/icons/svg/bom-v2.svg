@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组备份</title>
+    <g id="-界面合集" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-38.000000, -30.000000)" fill="#FF9834">
+            <g id="编组备份" transform="translate(38.000000, 30.000000)">
+                <rect id="矩形" opacity="0.1" x="0" y="0" width="14" height="14" rx="7"></rect>
+                <polygon id="工" fill-rule="nonzero" points="10.584 10.36 10.584 9.552 7.432 9.552 7.432 4.768 10.096 4.768 10.096 3.968 3.928 3.968 3.928 4.768 6.584 4.768 6.584 9.552 3.424 9.552 3.424 10.36"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

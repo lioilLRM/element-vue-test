@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="10px" viewBox="0 0 12 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>gouxuan-2</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.196078 0 0 0 0 0.433689 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="-界面合集" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="gouxuan-2" transform="translate(-499.000000, -695.000000)" filter="url(#filter-1)">
+            <g transform="translate(499.000000, 695.000000)">
+                <path d="M6.73058036,6.94166667 L6.11986607,7.50416667 L5.50915179,6.94166667 L2.54888393,4.1125 L3.7703125,2.9375 L6.11986607,5.17916667 L10.6535714,0.804166667 L11.875,1.97916667 L6.73058036,6.94166667 Z M7.63392857,0.833333333 L0.848214286,0.833333333 L0.848214286,9.16666667 L9.33035714,9.16666667 L9.33035714,6.66666667 L10.1785714,6.66666667 L10.1785714,10 L0,10 L0,0 L8.48214286,0 L8.48214286,0.833333333 L7.63392857,0.833333333 Z" id="形状" fill="#0590DF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

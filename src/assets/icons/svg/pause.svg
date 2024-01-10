@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>草稿</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 0.596078 0 0 0 0 0.203922 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="-界面合集" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-任务报表-生产任务" transform="translate(-894.000000, -463.000000)">
+            <g id="在职" transform="translate(881.000000, 338.000000)" filter="url(#filter-1)">
+                <g transform="translate(19.000000, 131.000000) rotate(-270.000000) translate(-19.000000, -131.000000) translate(13.000000, 125.000000)" id="编组-11" fill="#66A8FF">
+                    <path d="M6,0 C9.3137085,0 12,2.6862915 12,6 C12,9.3137085 9.3137085,12 6,12 C2.6862915,12 0,9.3137085 0,6 C0,2.6862915 2.6862915,0 6,0 Z M8,6.78344727 L4,6.78344727 L4,8.28344727 L8,8.28344727 L8,6.78344727 Z M8,3.82226562 L4,3.82226562 L4,5.32226562 L8,5.32226562 L8,3.82226562 Z" id="草稿"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

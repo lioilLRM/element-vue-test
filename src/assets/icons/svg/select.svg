@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="4px" viewBox="0 0 8 4" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>下拉选择图标</title>
+    <g id="-界面合集" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02-安灯配置-自定义呼叫类型" transform="translate(-862.000000, -249.000000)">
+            <g id="编组" transform="translate(461.000000, 231.000000)">
+                <g transform="translate(401.000000, 16.000000)">
+                    <rect id="矩形" x="0" y="0" width="8" height="8"></rect>
+                    <polygon id="单箭头往右" fill="#000000" fill-rule="nonzero" opacity="0.4" transform="translate(4.000000, 4.000000) rotate(90.000000) translate(-4.000000, -4.000000) " points="2 0.767158672 2.64370307 0 6 4 2.64370307 8 2 7.23284133 4.71259385 4"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

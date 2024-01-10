@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="WEB-设计总稿" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="工艺路线-新增备份" transform="translate(-338.000000, -831.000000)">
+            <g id="编组-3" transform="translate(338.000000, 831.000000)">
+                <circle id="椭圆形" fill="#FF7474" cx="6" cy="6" r="6"></circle>
+                <path d="M6.45,3 L6.449,5.55 L9,5.55 L9,6.45 L6.449,6.449 L6.45,9 L5.55,9 L5.549,6.449 L3,6.45 L3,5.55 L5.549,5.55 L5.55,3 L6.45,3 Z" id="关闭(小)" fill="#FFFFFF" transform="translate(6.000000, 6.000000) rotate(45.000000) translate(-6.000000, -6.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>播放</title>
+    <g id="-界面合集" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-首页备份-7" transform="translate(-1114.000000, -300.000000)" fill-rule="nonzero">
+            <g id="编组-6" transform="translate(1098.000000, 263.000000)">
+                <g id="播放" transform="translate(16.000000, 37.000000)">
+                    <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="12" height="12"></rect>
+                    <path d="M9.99290113,4.59898954 C11.2148181,5.37273791 11.2141569,6.62765059 9.99290113,7.40098031 L3.30338542,11.6369491 C2.08146848,12.4106975 1.09090909,11.9068841 1.09090909,10.5133285 L1.09090909,1.48664136 C1.09090909,0.0923344453 2.08212966,-0.41030898 3.30338542,0.36302073 L9.99290113,4.59898954 L9.99290113,4.59898954 Z" id="路径" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

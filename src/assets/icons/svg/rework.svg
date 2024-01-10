@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="APP界面" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="缺陷处置（有缺陷名称的）" transform="translate(-552.000000, -893.000000)" fill="#FF9834">
+            <g id="合格备份-5" transform="translate(552.000000, 893.000000)">
+                <path d="M14,0 C21.7319865,0 28,6.2680135 28,14 C28,21.7319865 21.7319865,28 14,28 C6.2680135,28 0,21.7319865 0,14 C0,6.2680135 6.2680135,0 14,0 Z M19.7142857,8 L12.3108254,15.3679607 L8.41853272,11.4943316 L6,13.9245171 L12.3108254,20.205082 L22.1328184,10.4301855 L19.7142857,8 Z" id="成功备份"></path>
+            </g>
+        </g>
+    </g>
+</svg>

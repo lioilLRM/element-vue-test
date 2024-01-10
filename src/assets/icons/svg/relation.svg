@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="5px" height="16px" viewBox="0 0 5 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>更多</title>
+    <g id="-界面合集" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02-新增点检标准" transform="translate(-342.000000, -341.000000)">
+            <rect fill="#EAECEF" x="0" y="0" width="1440" height="812"></rect>
+            <rect id="矩形" fill="#EAECEF" x="0" y="0" width="1440" height="820"></rect>
+            <polygon id="Rectangle-2" fill="#F8F8FA" points="20 160 1420 160 1420 792 20 792"></polygon>
+            <g id="编组-5" transform="translate(77.000000, 334.000000)">
+                <g id="编组备份-5" fill="#FFFFFF" stroke="#000000" stroke-opacity="0.1">
+                    <g id="Group-14" transform="translate(58.000000, 0.000000)">
+                        <path d="M221.5,0.5 L221.5,27.5 L0.5,27.5 L0.5,0.5 L221.5,0.5 Z" id="Rectangle-18"></path>
+                    </g>
+                </g>
+                <g id="更多" transform="translate(268.000000, 15.000000) rotate(-360.000000) translate(-268.000000, -15.000000) translate(266.000000, 7.000000)" fill="#999999">
+                    <path d="M3,12.2580645 L3,14 L1,14 L1,12.2580645 L3,12.2580645 Z M3,7.12903226 L3,8.87096774 L1,8.87096774 L1,7.12903226 L3,7.12903226 Z M3,2 L3,3.74193548 L1,3.74193548 L1,2 L3,2 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

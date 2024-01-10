@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>切换</title>
+    <g id="WEB-设计总稿" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-自制工单详情-执行中" transform="translate(-1315.000000, -1157.000000)" fill-rule="nonzero">
+            <g id="编组-2" transform="translate(40.000000, 776.000000)">
+                <g id="button/次按钮备份-3" transform="translate(1258.000000, 373.000000)">
+                    <g id="切换" transform="translate(17.000000, 8.000000)">
+                        <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="12" height="12"></rect>
+                        <path d="M7.25025,1.74975 L7.25025,4.25025 L0.75,4.25025 L0.75,5.25 L11.25,5.25 L7.25025,1.74975 Z M4.74975,10.25025 L4.74975,7.74975 L11.25,7.74975 L11.25,6.75 L0.75,6.75 L4.74975,10.25025 Z" id="形状" fill="#326FFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

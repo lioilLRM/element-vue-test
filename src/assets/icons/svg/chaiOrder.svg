@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>拆分页面</title>
+    <g id="-界面合集" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-生产工单备份-2" transform="translate(-1388.000000, -379.000000)" fill-rule="nonzero">
+            <g id="拆分页面" transform="translate(1394.000000, 385.000000) rotate(90.000000) translate(-1394.000000, -385.000000) translate(1388.000000, 379.000000)">
+                <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="12" height="12"></rect>
+                <path d="M10.6875,0.75 L10.6875,3.75 L1.3125,3.75 L1.3125,0.75 L2.44216575,0.75 L2.44216575,2.61062936 L9.54903712,2.61062936 L9.54903712,0.75 L10.6875,0.75 Z M1.3125,11.25 L1.3125,8.25 L10.6875,8.25 L10.6875,11.25 L9.64113022,11.25 L9.64113022,9.50764551 L2.42760629,9.50764551 L2.42760629,11.25 L1.3125,11.25 Z M0.75,5.25 L11.25,5.25 L11.25,6.75 L0.75,6.75 L0.75,5.25 Z" id="形状" fill="#7B7B7C"></path>
+            </g>
+        </g>
+    </g>
+</svg>

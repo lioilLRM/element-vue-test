@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组</title>
+    <g id="WEB-设计总稿" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="工艺路线-新增备份" transform="translate(-362.000000, -579.000000)">
+            <g id="编组-6备份-2" transform="translate(100.000000, 561.000000)">
+                <g id="编组" transform="translate(262.000000, 18.000000)">
+                    <circle id="椭圆形" stroke="#326FFF" fill="#FFFFFF" cx="10" cy="10" r="9.5"></circle>
+                    <path d="M10.75,5 L10.75,9.25 L15,9.25 L15,10.75 L10.75,10.75 L10.75,15 L9.25,15 L9.25,10.75 L5,10.75 L5,9.25 L9.25,9.25 L9.25,5 L10.75,5 Z" id="加号" fill="#326FFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

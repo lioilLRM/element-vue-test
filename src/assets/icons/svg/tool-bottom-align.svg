@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="14px" viewBox="0 0 15 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="打印模板添加" transform="translate(-780.000000, -80.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="上对齐备份" transform="translate(787.909091, 87.000000) scale(1, -1) translate(-787.909091, -87.000000) translate(780.909091, 80.000000)">
+                <rect id="矩形" opacity="0" x="0" y="0" width="14" height="14"></rect>
+                <path d="M2,2.42307692 L2,2 L13,2 L13,2.42307692 L2,2.42307692 Z M5.80769231,12.5769231 L5.80769231,4.11538462 C5.80769231,3.88172568 5.9971103,3.69230769 6.23076923,3.69230769 L8.76923077,3.69230769 C9.0028897,3.69230769 9.19230769,3.88172568 9.19230769,4.11538462 L9.19230769,12.5769231 C9.19230769,12.810582 9.0028897,13 8.76923077,13 L6.23076923,13 C5.9971103,13 5.80769231,12.810582 5.80769231,12.5769231 Z" id="形状"></path>
+            </g>
+        </g>
+    </g>
+</svg>

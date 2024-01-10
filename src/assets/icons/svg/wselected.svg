@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>对勾</title>
+    <g id="icon/对勾" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组" fill="#000000" fill-rule="nonzero">
+            <g id="勾备份-2">
+                <rect id="矩形" opacity="0" x="0" y="0" width="12" height="12"></rect>
+                <polygon id="路径" points="10.2 3.9 9.15 2.85 4.875 7.05 2.85 5.1 1.8 6.15 4.875 9.15"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="11px" viewBox="0 0 16 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>确定</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="06-角色权限" transform="translate(-836.000000, -418.000000)">
+            <g id="确定" transform="translate(836.000000, 416.000000)">
+                <g id="编组-4" stroke-width="1" fill-rule="evenodd" transform="translate(0.000000, 2.000000)" fill="#326FFF">
+                    <g id="queding" transform="translate(0.000000, 0.000000)" fill-rule="nonzero">
+                        <path d="M0.209728433,5.25197268 C-0.0529931597,4.98786091 -0.0589487673,4.55361964 0.196872419,4.28214048 C0.45250802,4.01083548 0.873213495,4.00466985 1.13617129,4.26878162 L5.56920169,8.72092154 L13.9376234,0.210022627 C14.1992652,-0.0555695862 14.6197008,-0.0518423428 14.8769054,0.218051876 C15.1341438,0.488068013 15.1307189,0.922326696 14.8691783,1.18764024 L6.03788946,10.1692517 C5.78130906,10.4301761 5.36851627,10.4324926 5.10915209,10.1718816 L0.209728433,5.25199009 L0.209728433,5.25197268 Z" id="路径"></path>
+                    </g>
+                </g>
+                <rect id="矩形" x="0" y="0" width="16" height="16"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

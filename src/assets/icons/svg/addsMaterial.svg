@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="12px" viewBox="0 0 11 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>物料</title>
+    <g id="-界面合集" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="04-新增物料清单-附属产出" transform="translate(-1312.000000, -497.000000)" fill-rule="nonzero">
+            <g id="应用" transform="translate(1311.000000, 497.000000)">
+                <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="12" height="12"></rect>
+                <path d="M6.6,10.35 L9.975,8.4 C10.125,8.325 10.2,8.175 10.2,8.025 L10.2,4.125 L6.825,6.075 C6.75,6.15 6.675,6.15 6.6,6.15 L6.6,10.35 L6.6,10.35 Z M10.425,2.925 C10.8,3.15 11.025,3.525 11.025,3.9 L11.025,8.025 C11.025,8.475 10.8,8.85 10.425,9 L6.825,11.025 C6.45,11.25 6,11.25 5.7,11.025 L2.1,9 C1.725,8.775 1.5,8.4 1.5,8.025 L1.5,3.9 C1.5,3.45 1.725,3.075 2.1,2.925 L5.7,0.9 C6.075,0.675 6.525,0.675 6.825,0.9 L10.425,2.925 L10.425,2.925 Z" id="形状" fill="#326FFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

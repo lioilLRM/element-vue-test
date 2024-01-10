@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="18px" viewBox="0 0 34 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="-界面合集" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="容器定义" transform="translate(-304.000000, -673.000000)">
+            <g id="编组-6" transform="translate(291.000000, 298.000000)">
+                <g id="状态/未开始备份-8" transform="translate(13.000000, 375.000000)">
+                    <path d="M32,0.5 C32.4142136,0.5 32.7892136,0.667893219 33.0606602,0.939339828 C33.3321068,1.21078644 33.5,1.58578644 33.5,2 L33.5,2 L33.5,16 C33.5,16.4142136 33.3321068,16.7892136 33.0606602,17.0606602 C32.7892136,17.3321068 32.4142136,17.5 32,17.5 L32,17.5 L2,17.5 C1.58578644,17.5 1.21078644,17.3321068 0.939339828,17.0606602 C0.667893219,16.7892136 0.5,16.4142136 0.5,16 L0.5,16 L0.5,2 C0.5,1.58578644 0.667893219,1.21078644 0.939339828,0.939339828 C1.21078644,0.667893219 1.58578644,0.5 2,0.5 L2,0.5 Z" id="矩形备份-14" stroke="#73BFDE"></path>
+                    <text id="在用" font-family="PingFangSC-Semibold, PingFang SC" font-size="12" font-weight="500" line-spacing="12" fill="#73BFDE">
+                        <tspan x="5" y="16">在用</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

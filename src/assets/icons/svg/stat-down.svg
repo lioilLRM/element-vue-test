@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="6px" viewBox="0 0 8 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>fill</title>
+    <g id="-界面合集" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-首页备份-3" transform="translate(-526.000000, -256.000000)" fill="#39C15B" fill-rule="nonzero">
+            <g id="新用户" transform="translate(427.000000, 181.000000)">
+                <g id="同比" transform="translate(0.000000, 67.000000)">
+                    <g id="7.Icon/arrow/15.down/fill" transform="translate(103.000000, 10.833333) scale(1, -1) rotate(-180.000000) translate(-103.000000, -10.833333) translate(99.000000, 8.333333)">
+                        <path d="M6.53541667,2.68292504 L2.38125,5.94959171 C2.22708333,6.07042504 2,5.96209171 2,5.76625838 L2,-0.764991625 C2,-0.960824958 2.22708333,-1.07124162 2.38125,-0.948324958 L6.53541667,2.31625838 C6.65416667,2.41000838 6.65416667,2.58917504 6.53541667,2.68292504 Z" id="fill" transform="translate(4.312240, 2.500177) rotate(90.000000) translate(-4.312240, -2.500177) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

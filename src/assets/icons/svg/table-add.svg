@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>增加备份 2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="3.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02-工艺路线-新增" transform="translate(-477.000000, -544.000000)">
+            <g id="编组-7" transform="translate(390.000000, 505.000000)">
+                <g id="增加" transform="translate(87.000000, 39.000000)">
+                    <g id="shanchu-3">
+                        <path d="M8,0 C12.424,0 16,3.576 16,8 C16,12.424 12.424,16 8,16 C3.576,16 0,12.424 0,8 C0,3.576 3.576,0 8,0 Z" id="路径" fill="#326FFF" fill-rule="nonzero"></path>
+                        <g id="编组" transform="translate(4.264000, 3.908444)" fill="#FFFFFF" fill-rule="nonzero">
+                            <path d="M0.536,3.55555556 L6.936,3.55555556 C7.256,3.55555556 7.472,3.77155556 7.472,4.09155556 C7.472,4.41155556 7.256,4.62755556 6.936,4.62755556 L0.536,4.62755556 C0.216,4.62755556 1.8189894e-12,4.41155556 1.8189894e-12,4.09155556 C1.8189894e-12,3.77155556 0.216,3.55555556 0.536,3.55555556 Z" id="路径"></path>
+                            <path d="M0.536,3.55555556 L6.936,3.55555556 C7.256,3.55555556 7.472,3.77155556 7.472,4.09155556 C7.472,4.41155556 7.256,4.62755556 6.936,4.62755556 L0.536,4.62755556 C0.216,4.62755556 0,4.41155556 0,4.09155556 C0,3.77155556 0.216,3.55555556 0.536,3.55555556 Z" id="路径" transform="translate(3.736000, 4.091556) rotate(-90.000000) translate(-3.736000, -4.091556) "></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

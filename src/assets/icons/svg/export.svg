@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>导入备份</title>
+    <g id="-界面合集" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-库存报表" transform="translate(-49.000000, -164.000000)">
+            <g id="导入备份" transform="translate(49.000000, 164.000000)">
+                <rect id="矩形" x="0" y="0" width="12" height="12"></rect>
+                <path d="M1.02834617,7.5139727 L1.02834617,10.0361807 L10.9716538,10.0361807 L10.9716538,7.5139727 L12,7.5139727 L12,11 L0,11 L0,7.5139727 L1.02834617,7.5139727 Z M5.99451549,1 L8.89330908,4.08261538 L8.12182093,4.71980702 L6.53382592,3.03119562 L6.53382592,8.82332121 L5.50547975,8.82332121 L5.50547975,2.99606976 L3.91965569,4.70534973 L3.14371138,4.072763 L5.99451549,1 Z" id="下载" fill-opacity="0.7" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
